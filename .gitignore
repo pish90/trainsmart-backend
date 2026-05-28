@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+application-local.properties
+.env
+.DS_Store
+.idea/
+*.iml
+*.iws
+.classpath
+.project
+.settings/
